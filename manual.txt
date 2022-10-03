@@ -1,0 +1,22 @@
+MANUAL DE USUARIOS
+SISTEMA DE CONTROL DE USUARIOS
+CONSTRUNORT
+
+
+
+
+
+
+
+1. Introduccion
+1.1 descripcion del sistema y objetivos
+1.2 conocimientos previos del usuario
+1.3 capacidades minimas del computador
+1.4 software necesario
+2. Uso del sistema
+2.1 Crear usuario y clave
+2.2 Ingresar al sistema 
+2.3 revision de bitacora
+3. guia de instalacion 
+
+
